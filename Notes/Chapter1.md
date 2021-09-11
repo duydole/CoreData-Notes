@@ -3,25 +3,20 @@
 ### Intro
 
 - CoreData sử dụng **SQLite Database**
-- Data model ~ database schema
-Nên ôn lại kiến thức database cơ bản
+- **Data model** ~ database schema
 
 ### Cách lưu object vào CoreData
 
 Để save 1 object dùng CoreData
 
-- Bước 1: Insert new **NSManagedObject** vào ManagedObjectContext
+- Bước 1: Insert new **NSManagedObject** vào **ManagedObjectContext**
 - Bước 2: Commit the changes bằng cách gọi hàm **save**()
-
-### **NSManagedObjectContext**
 
 ### Entity
 
 - Tạo trong CoreData **Editor**
 - UI trong **Editor** mày bấm vậy thôi, behind the scene là tạo 1 Class (ex: Person, Employee,..)
 - Trong relational database, Entity = Table
-
-> Chú ý: nên ôn lại **Relational database**
 
 ### Attribute
 

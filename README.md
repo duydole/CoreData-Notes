@@ -1,7 +1,7 @@
 # CoreData Notes
 This repository contains all notes what I have learned from ebook **Core Data by Tutorials** by Raywenderlich.
 
--   [x] Chapter 1: Your First Core Data App
+-   [x] [Chapter 1: Your First Core Data App](./Notes/Chapter1.md)
 -   [x] Chapter 2: NSManagedObject Subclasses
 -   [x] Chapter 3: The Core Data Stack
 -   [x] Chapter 4: Intermediate Fetching
